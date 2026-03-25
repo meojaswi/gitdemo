@@ -1,2 +1,3 @@
-This is file1 content 
-modifying the file  @2:34 pm from main
+This is file1 content
+modified from feature branch 
+>>>>>>> feature
